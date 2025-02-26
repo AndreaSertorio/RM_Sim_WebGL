@@ -1,0 +1,1488 @@
+{
+    "sequences": [
+        {
+            "id": "Cervello_RM Encefalica per Sospetto Ictus Acuto_DWI_17246802-7783-4dfa-9573-cffaf6619cfd",
+            "sequenceName": "DWI",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sospetto Ictus Acuto_FLAIR_93c63ce0-89f4-43ff-a731-8633fef4b84d",
+            "sequenceName": "FLAIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sospetto Ictus Acuto_T2 FSE_60b65589-48b7-4a71-9227-38a720d7bd34",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sospetto Ictus Acuto_TOF Angio-RM 3D_1e730b34-3d97-4725-a339-c48dc74cbae5",
+            "sequenceName": "TOF Angio-RM 3D",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sclerosi Multipla_T2 FSE_b3afb667-a72e-491f-8686-4745bc2da49e",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sclerosi Multipla_FLAIR_d6b08648-ea12-4245-bdfc-c023ced988f1",
+            "sequenceName": "FLAIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Sclerosi Multipla_T1 SE con Contrasto_7926955f-26b8-441f-9f4c-a9010e9cd49f",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Tumori Cerebrali_T1 SE senza Contrasto_96dbcb98-bf71-4ef2-8807-f988a0c2b4df",
+            "sequenceName": "T1 SE senza Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Tumori Cerebrali_T1 SE con Contrasto_0b25b755-5c8d-41c7-b3c6-0e9d7958466e",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Tumori Cerebrali_T2 FSE_e7aae937-b3e2-43a2-b568-cddc1019f727",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Tumori Cerebrali_Perfusione RM_307fdcff-ba0f-4033-bb3d-62ee53c9cb0d",
+            "sequenceName": "Perfusione RM",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Epilessia_T1 3D IR_eaaddd57-743f-4908-a378-ceb99644aa74",
+            "sequenceName": "T1 3D IR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Epilessia_FLAIR_0e31505f-9824-4b3a-b319-51cc3d6dbdc1",
+            "sequenceName": "FLAIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Epilessia_T2 FSE_4ffbb1ea-a1a9-4cb6-95f1-730b6b50ea5d",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Angio Encefalo (Valutazione Circolo Vascolare)_TOF Angio-RM 3D_de683e4e-810d-4bfe-b8da-d031ebf11ef4",
+            "sequenceName": "TOF Angio-RM 3D",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Angio Encefalo (Valutazione Circolo Vascolare)_T2 FSE_339c8119-cae7-435d-a8bb-2cf28bd41a56",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Angio Encefalo (Valutazione Circolo Vascolare)_GRE_46da7bef-d659-4cd8-89f8-0531b84a6055",
+            "sequenceName": "GRE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Encefalite o Patologie Infettive_T1 SE senza e con Contrasto_dc0661b8-9487-437e-9721-e6f939559217",
+            "sequenceName": "T1 SE senza e con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Encefalite o Patologie Infettive_T2 FSE_3fb915d5-a0ba-4486-9b62-bdcf3eb58269",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_RM Encefalica per Encefalite o Patologie Infettive_FLAIR_7f1839d4-4385-4414-8d37-e5f300767653",
+            "sequenceName": "FLAIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Patologie Degenerative_T2 FSE_f4b2402e-f1b6-46ba-aff2-36a97c7b0dfa",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Patologie Degenerative_T1 SE_f266d1b8-55ec-45cd-bfc2-fe729868651b",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Patologie Degenerative_STIR_8d5cb77d-5990-4550-9635-6a777ca44442",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Sospetta Neoplasia_T1 SE senza e con Contrasto_b770e3d0-324b-4c89-8a41-696bb7c271ba",
+            "sequenceName": "T1 SE senza e con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Sospetta Neoplasia_T2 FSE_3cf19322-4400-4abc-bb02-caaa82da6c89",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Trauma_T2 FSE_500595c1-629a-43a1-8cb9-3d12e86f8736",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Trauma_T1 SE_a21799df-d25f-4d18-aa31-5a8ff6fb04d1",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Trauma_STIR_92e4c315-6860-42cc-a054-83fe6ebc3a7d",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Compressione Midollare_T2 FSE_525ce05c-d729-4563-99f8-ada991ee1e29",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Collo_RM Cervicale per Compressione Midollare_T1 SE_ea72a9bd-fbaa-42df-86f9-e1bbc304e3c7",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sospetta Spondilosi o Ernia Discale_T2 FSE_c0279f01-4644-4a00-8986-07cacacd8640",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sospetta Spondilosi o Ernia Discale_T1 SE_cfc21d72-b461-4b11-87e0-1ad310e397b3",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sospetta Spondilosi o Ernia Discale_STIR_dfe7a9f0-41fb-47c6-84f6-c14cde865fb0",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Trauma_T2 FSE_a6fabca6-8074-49a8-b455-cef5737c1dc1",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Trauma_T1 SE_627cd050-3c43-461d-b1f6-f9f5dd35e67e",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sclerosi Multipla_T2 FSE_c9a35637-147d-40e1-9eb1-7a1130732cd8",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sclerosi Multipla_FLAIR_4cc712d5-f939-4ec3-bdfb-f6bfbec5c196",
+            "sequenceName": "FLAIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Sclerosi Multipla_T1 SE con Contrasto_8a1bd5bb-e633-4016-a6f2-158f610283ff",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Tumori o Lesioni_T1 SE senza e con Contrasto_59006126-9d60-452e-be02-10606040d0f5",
+            "sequenceName": "T1 SE senza e con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Midollo Spinale_RM Midollo Spinale per Tumori o Lesioni_T2 FSE_b44691c5-e625-418d-aa7a-e18c99cf26c8",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Patologie della Cuffia dei Rotatori_PD con e senza Fat Sat_41a7caa6-ebe9-4bcb-90fa-f5ec8d7dc9fe",
+            "sequenceName": "PD con e senza Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Patologie della Cuffia dei Rotatori_T2 FSE con Fat Sat_4ca1aa24-d682-4c7f-a199-57bcac619a5b",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Instabilità_T1 SE con Contrasto Artrografico_c5af0993-945a-43fc-a525-4e7c72ebb070",
+            "sequenceName": "T1 SE con Contrasto Artrografico",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Instabilità_GRE_131a4980-d7ad-4236-b1f7-376dedeb29e8",
+            "sequenceName": "GRE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Lesioni del Labrum_T1 SE con Contrasto_3b3ad0d3-942c-4577-9ac5-1e0a3f515bd5",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Lesioni del Labrum_T2 FSE con Fat Sat_48fa35fc-1ce1-47c1-92bc-31d66617051c",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Artrite_T2 FSE con Fat Sat_09b7c611-2ce8-43e3-8d6f-a13f7b9447ab",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Spalla_RM Spalla per Artrite_STIR_7205b8ff-6df7-4bfe-ac0c-25a12d14a8be",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Lesioni dei Tendini_T1 SE_1c5e0177-899f-4ecc-9390-f781804f6e3b",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Lesioni dei Tendini_T2 FSE con Fat Sat_cf7307da-0c87-4532-88dc-a2e731a34bf0",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Sospetta Frattura o Lesione Cartilaginea_PD con Fat Sat_ca988d9b-5e21-44f1-92d1-4f29608ea88a",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Sospetta Frattura o Lesione Cartilaginea_GRE_2a558c6b-17b3-4b94-8f74-a7839597fff8",
+            "sequenceName": "GRE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Epicondilite Laterale (Gomito del Tennista)_T2 FSE con Fat Sat_a18bc971-a81c-4942-bf9b-b4001d3adf05",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Epicondilite Laterale (Gomito del Tennista)_STIR_e3d510aa-cfcb-4620-b2a0-ebc3c4effd01",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Lesioni Nervose_T1 SE con Contrasto_4e6924a2-a44f-4834-9be8-170c97eb705b",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Gomito_RM Gomito per Lesioni Nervose_T2 FSE_61d5128a-d4e4-4039-99e0-eea314d2d2a3",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Polso per Sindrome del Tunnel Carpale_T1 SE_c02e382d-b47f-41a4-bb0f-fe43f045eddb",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Polso per Sindrome del Tunnel Carpale_T2 FSE con Fat Sat_39ef1018-c646-4343-8d64-c89bc7bd6274",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Mano per Artrite Reumatoide_T2 FSE con Fat Sat_788651b9-fe7d-4bd5-9f31-cca4d6ef6f0a",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Mano per Artrite Reumatoide_T1 SE con Contrasto_278fc07c-4148-455f-8c89-5d7ffb5bac69",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Polso per Lesioni Legamentose_T2 FSE con Fat Sat_e3867517-ed71-43be-9886-9fc02ffa1e92",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Polso per Lesioni Legamentose_PD con Fat Sat_8eb81f75-0331-4cba-9c6b-a4edd00ca7fe",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Mano per Fratture Complesse_T1 SE_0827a117-d900-41be-8a17-f5c74608b35f",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Polso e Mano_RM Mano per Fratture Complesse_STIR_39ec9c82-d627-4dc4-8520-189eecc4815f",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Impingement Femoracetabolare_T1 SE_bdaf9bd0-6b10-45fe-b89f-842f11ba46c3",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Impingement Femoracetabolare_T2 FSE con Fat Sat_4c1c1d0a-7bdf-4f6e-8c5f-d6f00aeb70bd",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Necrosi Avascolare_T1 SE_96585db1-a7d2-437a-91d1-8e99438b3dd5",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Necrosi Avascolare_STIR_7dd60787-620a-4c6b-9291-b697b6290905",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Artrite_T2 FSE con Fat Sat_eaa93656-986b-478d-a9d8-f117169b95a2",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Artrite_STIR_71e529ba-f413-443b-9f44-00efd50540f3",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Lesioni del Labrum Acetabolare_T1 SE con Contrasto_8f4fc775-e76b-4657-846f-76c052597f2f",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Anca_RM Anca per Lesioni del Labrum Acetabolare_T2 FSE con Fat Sat_662d1f99-9636-415e-adea-feb1ce992c5b",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Lesioni Meniscali_PD con Fat Sat_b0fbd470-5426-4f9e-9751-3ff75b8bea2c",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Lesioni Meniscali_T2 FSE_c29b906d-ae0f-42cb-b026-cde714e0a320",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Legamento Crociato Anteriore (LCA)_T1 SE_61d8d461-7c0f-47c0-8ead-8ba54b1e3bfb",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Legamento Crociato Anteriore (LCA)_T2 FSE con Fat Sat_db8bf23b-45a1-4023-ab4e-940e512dd450",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Lesioni del Legamento Collaterale_T2 FSE con Fat Sat_5f585cfd-9835-4fc3-9bb1-28d4fba521bc",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Lesioni del Legamento Collaterale_PD con Fat Sat_ebcba1e6-4103-44e0-98b8-2a0943d2e83f",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Artrite_T2 FSE_9da58e7c-e49a-4ef8-8dd6-480ac4a61410",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Ginocchio_RM Ginocchio per Artrite_STIR_8d0bbd17-29b3-405b-aa70-7fec8f3542bb",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Caviglia per Lesioni Legamentose_T2 FSE con Fat Sat_37b825d1-4641-4f08-bc7e-3ab3c4d88d8f",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Caviglia per Lesioni Legamentose_PD con Fat Sat_1e61dcfe-9729-4471-b2d9-71b75d9b581e",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Piede per Fascite Plantare_T1 SE_8e9613a3-7fdb-4d6f-9395-41e64cca8b63",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Piede per Fascite Plantare_STIR_3c9b979c-9616-42f5-b807-2f2bb27cd9b8",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Caviglia per Tendinite di Achille_T2 FSE con Fat Sat_4f26e9ed-cd0d-4d9d-8c93-bc6a02d3e2f8",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Caviglia per Tendinite di Achille_PD con Fat Sat_deb0b9b0-86ba-4d5e-bd89-4f00aa017d02",
+            "sequenceName": "PD con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Piede per Fratture da Stress_T1 SE_4e91a839-6f47-49bb-bb4f-5c4fe3b6d240",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Caviglia e Piede_RM Piede per Fratture da Stress_STIR_bc4a3483-4a9c-4637-9778-32acec20b834",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Patologie Muscoloscheletriche_T1 SE_5121e2e0-3329-4b4f-ab73-02740f9977cb",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Patologie Muscoloscheletriche_T2 FSE con Fat Sat_83ec22a6-f8a7-4967-b0b5-8c23a20b7ec3",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Sospetta Frattura_STIR_33fcd0ea-d7a7-44ce-b17c-4760a2ce886f",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Sospetta Frattura_T1 SE_8fd58bb6-988a-4f20-817c-26272673699a",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Infiammazione Articolare (Sacroiliite)_T2 FSE con Fat Sat_c045b9bf-e9fe-4923-8ec6-15b836c70f9a",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Infiammazione Articolare (Sacroiliite)_STIR_b49b0ad7-8995-4fa2-98ac-276ff5252214",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Lesioni dei Tessuti Molli_T1 SE con Contrasto_3f369cd0-a90c-4f1e-bb40-305378f360a4",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Pelvi_RM Pelvi per Lesioni dei Tessuti Molli_T2 FSE_123a1737-4e28-437f-8350-90c399b61a60",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Fegato per Lesioni Focali_T1 SE senza e con Contrasto_25855b5f-9d91-4458-a717-a738b6dca8e0",
+            "sequenceName": "T1 SE senza e con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Fegato per Lesioni Focali_T2 FSE_2a82f125-0a8b-49ad-a12d-9abbdec03a12",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Pancreas_T1 SE con Contrasto_f659379b-3f86-4be9-86ed-34c4b8be9ebc",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Pancreas_DWI_f1c37287-5445-497c-8514-fa361981b6d5",
+            "sequenceName": "DWI",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Reni per Lesioni o Tumori_T1 SE con Contrasto_1927f708-3459-4e78-a1d7-ce73196d93e0",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Reni per Lesioni o Tumori_T2 FSE_0921d03f-dd80-4f79-9f2c-b39d93888307",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Vie Biliari (Colangio-RM)_T2 FSE_daacbd10-275b-4435-84ee-00f3435a90fe",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Superiore_RM Vie Biliari (Colangio-RM)_MRCP_2a3709b3-55b6-44d7-9b0c-598fb4119227",
+            "sequenceName": "MRCP",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Malattia Infiammatoria Intestinale_T2 FSE con Fat Sat_4ca74dc5-97ce-461b-a90e-3613e347b20a",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Malattia Infiammatoria Intestinale_DWI_609132bf-8127-46d2-82d4-9d105500eb84",
+            "sequenceName": "DWI",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Pelvi per Tumori Ginecologici_T1 SE senza e con Contrasto_0d0806a2-49e8-4672-913a-bbbfcdd8caab",
+            "sequenceName": "T1 SE senza e con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Pelvi per Tumori Ginecologici_T2 FSE_276d9157-1002-486a-80e0-b05350dfe5de",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Endometriosi_T1 SE con Fat Sat_6eda2435-bdb6-4654-a37d-528716a73ef1",
+            "sequenceName": "T1 SE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Endometriosi_T2 FSE_567f6610-1bdb-44ad-8e58-db892072db54",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Ernie Inguinali_T1 SE_99c7b9f2-6202-4d4c-9277-1e09593e4d1a",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Addome Inferiore_RM Addome Inferiore per Ernie Inguinali_STIR_12a29769-11f3-4a3c-bfd4-b32eb1dc14fb",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Cuore per Cardiomiopatia_CINE SSFP_ef2d1de8-5a01-44e6-ad31-1c8598f83880",
+            "sequenceName": "CINE SSFP",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Cuore per Cardiomiopatia_LGE_6c00f51f-e4b1-4d0f-bcd0-14a64135a654",
+            "sequenceName": "LGE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Polmoni per Masse Mediastiniche_T1 SE_b2ada528-4ef5-45ac-891d-870edc70d861",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Polmoni per Masse Mediastiniche_T2 FSE_ec4bb5fd-eb06-4064-bd66-d50737d08543",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Torace per Valutazione del Pericardio_T2 FSE_69f11084-170f-4a27-bd16-49bcb61da69c",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Torace per Valutazione del Pericardio_STIR_65523b21-471c-486f-8e8f-09f7a416c678",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Torace per Tumori Polmonari_T1 SE con Contrasto_01f26d65-4cbe-47f8-bf7d-adc81c73ddc2",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Torace_RM Torace per Tumori Polmonari_T2 FSE_4c276cfa-3bcf-4f66-804e-4025e232e6a6",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Arterie degli Arti Inferiori_3D TOF_f3f8c13f-703e-4eda-afe7-060b59571000",
+            "sequenceName": "3D TOF",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Arterie degli Arti Inferiori_T2 FSE_f7401b1c-ea47-4774-8a8c-ce0012c6b3c9",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Aorta Toracica_3D TOF_4961f7a6-22d8-4211-9883-82980dc11689",
+            "sequenceName": "3D TOF",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Aorta Toracica_T1 SE con Contrasto_903dff30-0933-4d60-90df-4d642deee75d",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Carotidi_2D TOF_e1f82f9a-906a-4fb1-878d-5417da5b5a6f",
+            "sequenceName": "2D TOF",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Carotidi_T1 SE_1353a96a-4869-4756-9ad0-366271198ba7",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Arterie Renali_3D TOF_ff93a7e0-d91e-4aa7-9aca-a75b86b14c21",
+            "sequenceName": "3D TOF",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Vasi Sanguigni_Angio-RM Arterie Renali_T1 SE con Contrasto_9012a5f4-ee49-4b8b-a4fa-38eab99850f4",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Sospetto Tumore_T2 FSE_68b25070-f8df-4c34-ab67-33c31df7bf5d",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Sospetto Tumore_DWI_9f7301ca-aa3c-4454-9e84-031f302be031",
+            "sequenceName": "DWI",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Sospetto Tumore_T1 SE con Contrasto_dbcacf0b-68c7-4bfb-be81-c97e2d69e2f0",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Valutazione Post-Operatoria_T2 FSE_7f89e70a-9d70-449f-831b-3f7ed7521ca5",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Valutazione Post-Operatoria_T1 SE_023fee3b-a9c3-4f35-b33b-fb53963fd8b3",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Iperplasia Prostatica Benigna (IPB)_T2 FSE_9a7c205a-f35f-4d99-a342-ca1eb0c8501c",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Prostata_RM Prostatica per Iperplasia Prostatica Benigna (IPB)_T1 SE con Contrasto_81abeaa2-1852-489e-b544-aa6cd1ce4630",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi Femminile per Fibromi Uterini_T2 FSE_e4055a1c-e29e-4e3e-b3bb-f2f3a4bd2569",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi Femminile per Fibromi Uterini_T1 SE con Contrasto_e1a299c9-87fd-4184-9ec8-f2e01ca4f358",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Endometriosi_T2 FSE con Fat Sat_5e1c7daf-7565-4ce9-bfe1-8d6832fe981f",
+            "sequenceName": "T2 FSE con Fat Sat",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Endometriosi_STIR_195177e7-e497-473c-b7b0-d0719f151f2a",
+            "sequenceName": "STIR",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Tumori Ovarici_T1 SE con Contrasto_920e99bc-9100-4f03-9902-f8746c71e518",
+            "sequenceName": "T1 SE con Contrasto",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Tumori Ovarici_T2 FSE_b362a13e-f0ca-44c2-a202-dc99a9c15be0",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Malformazioni Congenite_T1 SE_d099445c-e628-43b8-b186-119fbfb9c128",
+            "sequenceName": "T1 SE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Utero e Pelvi Femminile_RM Pelvi per Malformazioni Congenite_T2 FSE_a80fb1d7-154c-4ae1-9cab-ddb1fb404f40",
+            "sequenceName": "T2 FSE",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "id": "Cervello_Culo Cazzo_Cazzo Culo Porco_5dbac728-0adf-45db-ad0a-c6074c833762",
+            "sequenceName": "Cazzo Culo Porco",
+            "parameters": [
+                {
+                    "paramName": "Param1",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Param2",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Param3",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Fov read",
+                    "value": 241.0
+                },
+                {
+                    "paramName": "Fov phase",
+                    "value": 188.0
+                },
+                {
+                    "paramName": "Spessore Slice",
+                    "value": 3.0
+                },
+                {
+                    "paramName": "TE",
+                    "value": 99.0
+                },
+                {
+                    "paramName": "Gruppo di Slice",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Posizione",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Direzione Codifica di Fase",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "Auto Allineamento",
+                    "value": 0.0
+                },
+                {
+                    "paramName": "TR",
+                    "value": 4602.0
+                }
+            ]
+        }
+    ]
+}
