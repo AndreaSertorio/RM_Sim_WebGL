@@ -1,1 +1,15 @@
+# Unity WebGL build: conserva solo Build/, TemplateData/ e index.html
+!/Build/
+!/TemplateData/
+!/index.html
+
+# Ignora file temporanei / cache / logs
+Build/*.symbols
+Build/*.map
+Build/*.mem
+Build/*.log
+Build/*.datacache
+Temp/
+Library/
+obj/
 .DS_Store
